@@ -1,11 +1,11 @@
 ---
 layout: post
-title:      "*Why I Started in Software Engineering: An Introduction"
+title:      "Why I Started in Software Engineering: An Introduction"
 date:       2020-02-23 23:23:12 -0500
 permalink:  why_i_started_in_software_engineering_an_introduction
 ---
 
-# *
+# 
 
 My name is Joel Hobgood, I’m 33 years old living in the Southeast and am coming up on my one year wedding anniversary in just over two months, and I am ready for a career change.
 
