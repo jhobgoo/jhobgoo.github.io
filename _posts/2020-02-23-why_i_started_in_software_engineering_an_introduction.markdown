@@ -6,7 +6,6 @@ permalink:  why_i_started_in_software_engineering_an_introduction
 ---
 
 # 
-
 My name is Joel Hobgood, I’m 33 years old living in the Southeast and am coming up on my one year wedding anniversary in just over two months, and I am ready for a career change.
 
 I have been working in the customer service industry since I was 16, and have been in the coffee industry for the last 10 as a barista, then to management as shift supervisor at a large corporate coffee chain (I'm sure you can all guess the company. Heck, you might even be sitting in one as you read this blog post! I left to manage a small, local specialty coffee bar that was named Imbibe Magazine’s 2017 Coffee Bar of the Year my first year there, and now I'm working in Production and Fulfillment on the wholesale coffee roasting side of the business for that same coffee company. My background is coffee, and I love the pace and the incredible people I've served and had the honor to work alongside. But it's time for a change.
