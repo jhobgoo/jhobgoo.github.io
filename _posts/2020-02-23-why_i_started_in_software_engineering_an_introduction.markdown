@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "*Why I Started in Software Engineering: An Introduction"
-date:       2020-02-24 04:23:11 +0000
+date:       2020-02-23 23:23:12 -0500
 permalink:  why_i_started_in_software_engineering_an_introduction
 ---
 
