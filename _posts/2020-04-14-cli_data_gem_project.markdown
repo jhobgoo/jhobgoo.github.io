@@ -1,0 +1,11 @@
+---
+layout: post
+title:      "CLI Data Gem Project"
+date:       2020-04-14 04:00:56 +0000
+permalink:  cli_data_gem_project
+---
+
+
+For the part-time software engineering cohort I'm apart of, we were assigned the task to create a CLI Data Gem at the end of our Object Oriented Ruby module. Throughout the curriculum, I felt confident in my understanding of object oriented programming, but when I started this project from scratch (and without those beautiful, beautiful spec files to program via test-driven development) I quickly realized that my knowledge was being put to a serious test. Instance variables vs class variables, instance methods and class methods, creating objects and NOT creating hashes to store and retrieve data... I truly felt that I had forgotten almost everything I had learned. After a handful of messages to my cohort lead Z and her very effective question-based reminders--I remember her asking about my CLI class code and asking me "So remember what we're doing here with this project: You have your API class which is focused solely on retreiving data from your CLI and creating objects. You have your "Object" class that tells you what kind of attributes your objects will have upon instantiation. And you have your CLI class that allow your user to interact with the data stored in your objects that is retreiving from your CLI. You have to get those distinctions down, or you'll be writing CLI code in your API class, and everything nothing is going to work properly. This project is all about focus." And just like when I was going through the curriculum, one by one the errors started to click and my code started coming together. This project was very much a lesson in focus for me -- what is the purpose of this, that, and the other thing? What are we trying to accomplish? At the end of this project, the code does not seem at all that complicated compared to how it felt when during the first day of trying to bang out my code and get my errors cleared and my code communicating nicely across its classes, but I felt the gaps in my object oriented knowledge slowly begin to close with each line of code, and the end results I am very pleased with. Here's a link to my github repository if you'd like to take a look for yourself!
+
+https://github.com/jhobgoo/dnd_cli
